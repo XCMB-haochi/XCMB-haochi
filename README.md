@@ -54,6 +54,10 @@ public:
 ![Robotics](https://img.shields.io/badge/Robotics-4ECDC4?style=for-the-badge&logo=robot&logoColor=white)
 ![Control](https://img.shields.io/badge/Control%20Systems-45B7D1?style=for-the-badge&logo=settings&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-96CEB4?style=for-the-badge&logo=opencv&logoColor=white)
+![Signal Processing](https://img.shields.io/badge/Signal%20Processing-FF9F43?style=for-the-badge&logo=soundcharts&logoColor=white)
+![Wireless Communication](https://img.shields.io/badge/Wireless%20Communication-6C5CE7?style=for-the-badge&logo=wifi&logoColor=white)
+![5G Technology](https://img.shields.io/badge/5G%20Technology-FD79A8?style=for-the-badge&logo=5g&logoColor=white)
+![Digital Signal Processing](https://img.shields.io/badge/Digital%20Signal%20Processing-A29BFE?style=for-the-badge&logo=waveform&logoColor=white)
 
 ---
 
@@ -106,23 +110,49 @@ public:
 ## 📈 Skills
 
 ```
-Embedded Systems    ████████████████████░░   80%
-C/C++              ███████████████████░░░   75%
-Python             ██████████████████░░░░   70%
-Control Systems    █████████████████░░░░░   65%
-Computer Vision    ████████████████░░░░░░   60%
-Robotics           ███████████████░░░░░░░   55%
+Embedded Systems       ████████████████████░░   80%
+C/C++                  ███████████████████░░░   75%
+Python                 ██████████████████░░░░   70%
+Signal Processing      █████████████████░░░░░   65%
+Computer Vision        ████████████████░░░░░░   60%
+Wireless Communication ███████████████░░░░░░░   55%
+Robotics               ███████████████░░░░░░░   55%
 ```
+
+---
+
+## 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+## 📈 Activity Graph
+
+![XCMB's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=XCMB-haochi&theme=radical&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF)
 
 ---
 
 ## 🎯 Current Focus
 
 - 🔬 Embedded system design and optimization
-- 🤖 Robotics control algorithms
+- 🤖 Robotics control algorithms  
 - 👁️ Computer vision applications
+- 📡 5G wireless communication protocols
+- 🎛️ Digital signal processing techniques
 - 💪 Maintaining bodybuilding routine
 - 🍞 Building innovative solutions
+
+---
+
+## 🏗️ Featured Projects
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XCMB-haochi&repo=your-project-repo&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=A8B2D1)](https://github.com/XCMB-haochi/your-project-repo)
+
+</div>
 
 ---
 
