@@ -116,16 +116,6 @@ public:
 
 ---
 
-## 🏗️ Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=XCMB-haochi&repo=your-project-repo&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=A8B2D1)](https://github.com/XCMB-haochi/your-project-repo)
-
-</div>
-
----
-
 ## 📫 Connect with Me
 
 <div align="center">
