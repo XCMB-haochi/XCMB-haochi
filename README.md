@@ -64,20 +64,8 @@ public:
 ## 📊 Tech & Stats
 
 <div align="center">
-<table>
-<tr>
-<td width="50%">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XCMB-haochi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-</td>
-<td width="50%">
-
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=XCMB-haochi&theme=tokyonight&hide_border=true)
-
-</td>
-</tr>
-</table>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XCMB-haochi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
