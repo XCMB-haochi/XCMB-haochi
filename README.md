@@ -64,10 +64,23 @@ public:
 ## 📊 Tech & Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=XCMB-haochi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width="48%" src="https://github-readme-streak-stats.vercel.app/?user=XCMB-haochi&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <br/>
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XCMB-haochi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<table>
+<tr>
+<td width="50%">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XCMB-haochi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+</td>
+<td width="50%">
+
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=XCMB-haochi&theme=tokyonight&hide_border=true)
+
+</td>
+</tr>
+</table>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XCMB-haochi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
 </div>
 
 ---
