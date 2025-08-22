@@ -61,37 +61,18 @@ public:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Tech & Stats
 
 <div align="center">
-
-![XCMB's GitHub stats](https://github-readme-stats.vercel.app/api?username=XCMB-haochi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=A8B2D1)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XCMB-haochi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=A8B2D1)
-
+  <img width="390" src="https://github-readme-streak-stats.vercel.app/?user=XCMB-haochi&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=XCMB-haochi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XCMB-haochi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=XCMB-haochi&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
-
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=XCMB-haochi&theme=radical&hide_border=true&background=0D1117)
-
-</div>
-
----
+## 🔥 Contribution Overview
 
 ## 🐍 Contribution Snake
 
@@ -107,21 +88,7 @@ public:
 
 ---
 
-## 📈 Skills
-
-```
-Embedded Systems       ████████████████████░░   80%
-C/C++                  ███████████████████░░░   75%
-Python                 ██████████████████░░░░   70%
-Signal Processing      █████████████████░░░░░   65%
-Computer Vision        ████████████████░░░░░░   60%
-Wireless Communication ███████████████░░░░░░░   55%
-Robotics               ███████████████░░░░░░░   55%
-```
-
----
-
-## 📊 Weekly Development Breakdown
+##  Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -130,7 +97,9 @@ Robotics               ███████████████░░░░
 
 ## 📈 Activity Graph
 
-![XCMB's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=XCMB-haochi&theme=radical&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XCMB-haochi&custom_title=XCMB's%20Contribution%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph" />
+</div>
 
 ---
 
@@ -169,8 +138,14 @@ Robotics               ███████████████░░░░
 
 <div align="center">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=XCMB-haochi.XCMB-haochi&left_color=blueviolet&right_color=orange)
+<img src="https://komarev.com/ghpvc/?username=XCMB-haochi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+<br/>
+
+**"Building the future, one commit at a time"** 🍞
 
 ---
 
 ⭐️ From [XCMB-haochi](https://github.com/XCMB-haochi)
+
+</div>
