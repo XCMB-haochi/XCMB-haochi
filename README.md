@@ -131,10 +131,6 @@ public:
 
 <img src="https://komarev.com/ghpvc/?username=XCMB-haochi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
-<br/>
-
-**"Building the future, one commit at a time"** 🍞
-
 ---
 
 ⭐️ From [XCMB-haochi](https://github.com/XCMB-haochi)
